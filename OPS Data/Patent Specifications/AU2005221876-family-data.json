@@ -1,0 +1,1578 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": [
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "32117466",
+          "@country": "AU",
+          "@doc-number": "2005221876",
+          "@kind": "A1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2005221876"
+                  },
+                  "kind": {
+                    "$": "A1"
+                  },
+                  "date": {
+                    "$": "20050922"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2005221876"
+                  },
+                  "date": {
+                    "$": "20050922"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "A61M  15/    08            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "B05B  11/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "B65D  83/    14            A I"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "text": {
+                    "$": "B67D   7/    84            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": [
+                {
+                  "@sequence": "1",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "NO"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "15"
+                  },
+                  "subgroup": {
+                    "$": "0065"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "15"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "6",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "0037"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "NO"
+                  }
+                },
+                {
+                  "@sequence": "7",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "10"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "8",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1052"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "NO"
+                  }
+                },
+                {
+                  "@sequence": "9",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1052"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "10",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1052"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "11",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1056"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "12",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1056"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "13",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1059"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "14",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1059"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "15",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "65"
+                  },
+                  "subclass": {
+                    "$": "D"
+                  },
+                  "main-group": {
+                    "$": "83"
+                  },
+                  "subgroup": {
+                    "$": "14"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "16",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "0038"
+                  },
+                  "classification-value": {
+                    "$": "A"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "17",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "0038"
+                  },
+                  "classification-value": {
+                    "$": "A"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                }
+              ]
+            },
+            "application-reference": {
+              "@doc-id": "2715190",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2005221876"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20050221876"
+                  },
+                  "date": {
+                    "$": "20050310"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2005221876"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "GB20040005477"
+                      },
+                      "date": {
+                        "$": "20040311"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "0405477.1"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "WO05/087615"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "WO2005GB00944"
+                    },
+                    "date": {
+                      "$": "20050310"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GLAXO GROUP LTD"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GLAXO GROUP LIMITED"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BONNEY STANLEY GEORGE"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "DAVIES MICHAEL BIRSHA"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "GODFREY JAMES WILLIAM"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CONNELL HUGH ALEXANDER"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "TANSLEY ROBERT WILLIAM"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HEDLEY MARK GRAHAM"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "STANLEY GEORGE BONNEY,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "MICHAEL BIRSHA DAVIES,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "JAMES WILLIAM GODFREY,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HUGH ALEXANDER CONNELL,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ROBERT WILLIAM TANSLEY,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "MARK GRAHAM HEDLEY"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "A fluid dispensing device",
+              "@lang": "en"
+            }
+          }
+        },
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "32117466",
+          "@country": "AU",
+          "@doc-number": "2005221876",
+          "@kind": "B2",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2005221876"
+                  },
+                  "kind": {
+                    "$": "B2"
+                  },
+                  "date": {
+                    "$": "20100429"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2005221876B"
+                  },
+                  "date": {
+                    "$": "20100429"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "A61M  15/    08            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "B05B  11/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "B65D  83/    14            A I"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "text": {
+                    "$": "B67D   7/    84            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": [
+                {
+                  "@sequence": "1",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "NO"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "15"
+                  },
+                  "subgroup": {
+                    "$": "0065"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "M"
+                  },
+                  "main-group": {
+                    "$": "15"
+                  },
+                  "subgroup": {
+                    "$": "08"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "6",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "0037"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "NO"
+                  }
+                },
+                {
+                  "@sequence": "7",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "10"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "8",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1052"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "NO"
+                  }
+                },
+                {
+                  "@sequence": "9",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1052"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "10",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1052"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "11",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1056"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "12",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1056"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "13",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1059"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "14",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "1059"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "15",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "65"
+                  },
+                  "subclass": {
+                    "$": "D"
+                  },
+                  "main-group": {
+                    "$": "83"
+                  },
+                  "subgroup": {
+                    "$": "14"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "16",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "0038"
+                  },
+                  "classification-value": {
+                    "$": "A"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "17",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "B"
+                  },
+                  "class": {
+                    "$": "05"
+                  },
+                  "subclass": {
+                    "$": "B"
+                  },
+                  "main-group": {
+                    "$": "11"
+                  },
+                  "subgroup": {
+                    "$": "0038"
+                  },
+                  "classification-value": {
+                    "$": "A"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                }
+              ]
+            },
+            "application-reference": {
+              "@doc-id": "2715190",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2005221876"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20050221876"
+                  },
+                  "date": {
+                    "$": "20050310"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2005221876"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "GB20040005477"
+                      },
+                      "date": {
+                        "$": "20040311"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "0405477.1"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "WO05/087615"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "WO2005GB00944"
+                    },
+                    "date": {
+                      "$": "20050310"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GLAXO GROUP LTD [GB]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GLAXO GROUP LIMITED"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BONNEY STANLEY GEORGE"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "DAVIES MICHAEL BIRSHA"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "GODFREY JAMES WILLIAM"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CONNELL HUGH ALEXANDER"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "TANSLEY ROBERT WILLIAM"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HEDLEY MARK GRAHAM"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "STANLEY GEORGE BONNEY,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "MICHAEL BIRSHA DAVIES,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "JAMES WILLIAM GODFREY,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HUGH ALEXANDER CONNELL,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ROBERT WILLIAM TANSLEY,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "MARK GRAHAM HEDLEY"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "A fluid dispensing device",
+              "@lang": "en"
+            },
+            "references-cited": {
+              "citation": {
+                "@cited-phase": "national-search-report",
+                "@cited-by": "examiner",
+                "@sequence": "1",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "1",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "WO03095007"
+                      },
+                      "name": {
+                        "$": "GLAXO GROUP LTD [GB], et al"
+                      },
+                      "date": {
+                        "$": "20031120"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "WO"
+                      },
+                      "doc-number": {
+                        "$": "03095007"
+                      },
+                      "kind": {
+                        "$": "A2"
+                      },
+                      "name": {
+                        "$": "GLAXO GROUP LTD [GB], et al"
+                      },
+                      "date": {
+                        "$": "20031120"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

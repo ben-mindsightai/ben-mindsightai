@@ -1,0 +1,5663 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": {
+        "@system": "ops.epo.org",
+        "@family-id": "26950511",
+        "@country": "US",
+        "@doc-number": "7612058",
+        "@kind": "B2",
+        "bibliographic-data": {
+          "publication-reference": {
+            "document-id": [
+              {
+                "@document-id-type": "docdb",
+                "country": {
+                  "$": "US"
+                },
+                "doc-number": {
+                  "$": "7612058"
+                },
+                "kind": {
+                  "$": "B2"
+                },
+                "date": {
+                  "$": "20091103"
+                }
+              },
+              {
+                "@document-id-type": "epodoc",
+                "doc-number": {
+                  "$": "US7612058"
+                },
+                "date": {
+                  "$": "20091103"
+                }
+              }
+            ]
+          },
+          "classifications-ipcr": {
+            "classification-ipcr": [
+              {
+                "@sequence": "1",
+                "text": {
+                  "$": "C07D                       C I"
+                }
+              },
+              {
+                "@sequence": "2",
+                "text": {
+                  "$": "A61K  31/    00            A I"
+                }
+              },
+              {
+                "@sequence": "3",
+                "text": {
+                  "$": "A61K  31/   192            A I"
+                }
+              },
+              {
+                "@sequence": "4",
+                "text": {
+                  "$": "A61K  31/   215            A I"
+                }
+              },
+              {
+                "@sequence": "5",
+                "text": {
+                  "$": "A61K  31/   395            A I"
+                }
+              },
+              {
+                "@sequence": "6",
+                "text": {
+                  "$": "A61K  31/   397            A I"
+                }
+              },
+              {
+                "@sequence": "7",
+                "text": {
+                  "$": "A61K  38/    43            A I"
+                }
+              },
+              {
+                "@sequence": "8",
+                "text": {
+                  "$": "A61K  45/    00            A I"
+                }
+              },
+              {
+                "@sequence": "9",
+                "text": {
+                  "$": "A61K  45/    06            A I"
+                }
+              },
+              {
+                "@sequence": "10",
+                "text": {
+                  "$": "A61K  47/    12            A I"
+                }
+              },
+              {
+                "@sequence": "11",
+                "text": {
+                  "$": "A61K  47/    20            A I"
+                }
+              },
+              {
+                "@sequence": "12",
+                "text": {
+                  "$": "A61K  47/    38            A I"
+                }
+              },
+              {
+                "@sequence": "13",
+                "text": {
+                  "$": "A61P   3/    00            A I"
+                }
+              },
+              {
+                "@sequence": "14",
+                "text": {
+                  "$": "A61P   3/    04            A I"
+                }
+              },
+              {
+                "@sequence": "15",
+                "text": {
+                  "$": "A61P   3/    06            A I"
+                }
+              },
+              {
+                "@sequence": "16",
+                "text": {
+                  "$": "A61P   3/    10            A I"
+                }
+              },
+              {
+                "@sequence": "17",
+                "text": {
+                  "$": "A61P   9/    00            A I"
+                }
+              },
+              {
+                "@sequence": "18",
+                "text": {
+                  "$": "A61P   9/    04            A I"
+                }
+              },
+              {
+                "@sequence": "19",
+                "text": {
+                  "$": "A61P   9/    10            A I"
+                }
+              }
+            ]
+          },
+          "patent-classifications": {
+            "patent-classification": [
+              {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "03"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "CZ"
+                }
+              },
+              {
+                "@sequence": "2",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "055"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "CZ"
+                }
+              },
+              {
+                "@sequence": "3",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "165"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "CZ"
+                }
+              },
+              {
+                "@sequence": "4",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "216"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "US"
+                }
+              },
+              {
+                "@sequence": "5",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "216"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "6",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "397"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "KR"
+                }
+              },
+              {
+                "@sequence": "7",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "397"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "US"
+                }
+              },
+              {
+                "@sequence": "8",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "31"
+                },
+                "subgroup": {
+                  "$": "397"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "9",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "45"
+                },
+                "subgroup": {
+                  "$": "06"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "US"
+                }
+              },
+              {
+                "@sequence": "10",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "K"
+                },
+                "main-group": {
+                  "$": "45"
+                },
+                "subgroup": {
+                  "$": "06"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "11",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "3"
+                },
+                "subgroup": {
+                  "$": "00"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "12",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "3"
+                },
+                "subgroup": {
+                  "$": "04"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "13",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "3"
+                },
+                "subgroup": {
+                  "$": "06"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "14",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "3"
+                },
+                "subgroup": {
+                  "$": "10"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "15",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "9"
+                },
+                "subgroup": {
+                  "$": "00"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "16",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "9"
+                },
+                "subgroup": {
+                  "$": "04"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "17",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "9"
+                },
+                "subgroup": {
+                  "$": "10"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "18",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "43"
+                },
+                "subgroup": {
+                  "$": "00"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "US",
+                  "@scheme": "UC"
+                },
+                "classification-symbol": {
+                  "$": "514/210.02"
+                }
+              },
+              {
+                "@sequence": "2",
+                "classification-scheme": {
+                  "@office": "US",
+                  "@scheme": "UC"
+                },
+                "classification-symbol": {
+                  "$": "514/210.03"
+                }
+              },
+              {
+                "@sequence": "3",
+                "classification-scheme": {
+                  "@office": "US",
+                  "@scheme": "UC"
+                },
+                "classification-symbol": {
+                  "$": "514/571"
+                }
+              }
+            ],
+            "combination-set": [
+              {
+                "@sequence": "1",
+                "group-number": {
+                  "$": "1"
+                },
+                "combination-rank": [
+                  {
+                    "rank-number": {
+                      "$": "1"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K31/216"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "EP"
+                      }
+                    }
+                  },
+                  {
+                    "rank-number": {
+                      "$": "2"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K2300/00"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "EP"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "2",
+                "group-number": {
+                  "$": "2"
+                },
+                "combination-rank": [
+                  {
+                    "rank-number": {
+                      "$": "1"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K31/216"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "US"
+                      }
+                    }
+                  },
+                  {
+                    "rank-number": {
+                      "$": "2"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K2300/00"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "US"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "3",
+                "group-number": {
+                  "$": "3"
+                },
+                "combination-rank": [
+                  {
+                    "rank-number": {
+                      "$": "1"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K31/397"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "EP"
+                      }
+                    }
+                  },
+                  {
+                    "rank-number": {
+                      "$": "2"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K2300/00"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "EP"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "4",
+                "group-number": {
+                  "$": "4"
+                },
+                "combination-rank": [
+                  {
+                    "rank-number": {
+                      "$": "1"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K31/397"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "US"
+                      }
+                    }
+                  },
+                  {
+                    "rank-number": {
+                      "$": "2"
+                    },
+                    "patent-classification": {
+                      "classification-scheme": {
+                        "@office": "EP",
+                        "@scheme": "CPCI"
+                      },
+                      "classification-symbol": {
+                        "$": "A61K2300/00"
+                      },
+                      "classification-value": {
+                        "$": "I"
+                      },
+                      "generating-office": {
+                        "$": "US"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "application-reference": {
+            "@doc-id": "54484385",
+            "document-id": [
+              {
+                "@document-id-type": "docdb",
+                "country": {
+                  "$": "US"
+                },
+                "doc-number": {
+                  "$": "99840004"
+                },
+                "kind": {
+                  "$": "A"
+                }
+              },
+              {
+                "@document-id-type": "epodoc",
+                "doc-number": {
+                  "$": "US20040998400"
+                },
+                "date": {
+                  "$": "20041129"
+                }
+              },
+              {
+                "@document-id-type": "original",
+                "doc-number": {
+                  "$": "10998400"
+                }
+              }
+            ]
+          },
+          "priority-claims": {
+            "priority-claim": [
+              {
+                "@sequence": "1",
+                "@kind": "national",
+                "document-id": [
+                  {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20010264396P"
+                    },
+                    "date": {
+                      "$": "20010126"
+                    }
+                  },
+                  {
+                    "@document-id-type": "original",
+                    "doc-number": {
+                      "$": "60264396"
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "2",
+                "@kind": "national",
+                "document-id": [
+                  {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20010323839P"
+                    },
+                    "date": {
+                      "$": "20010921"
+                    }
+                  },
+                  {
+                    "@document-id-type": "original",
+                    "doc-number": {
+                      "$": "60323839"
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "3",
+                "@kind": "national",
+                "document-id": [
+                  {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20020057323"
+                    },
+                    "date": {
+                      "$": "20020125"
+                    }
+                  },
+                  {
+                    "@document-id-type": "original",
+                    "doc-number": {
+                      "$": "10057323"
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "4",
+                "@kind": "national",
+                "document-id": [
+                  {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20020136968"
+                    },
+                    "date": {
+                      "$": "20020501"
+                    }
+                  },
+                  {
+                    "@document-id-type": "original",
+                    "doc-number": {
+                      "$": "10136968"
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "5",
+                "@kind": "national",
+                "document-id": {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "US20040998400"
+                  },
+                  "date": {
+                    "$": "20041129"
+                  }
+                }
+              }
+            ]
+          },
+          "parties": {
+            "applicants": {
+              "applicant": [
+                {
+                  "@sequence": "1",
+                  "@data-format": "epodoc",
+                  "applicant-name": {
+                    "name": {
+                      "$": "SCHERING CORP [US]"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "1",
+                  "@data-format": "original",
+                  "applicant-name": {
+                    "name": {
+                      "$": "CHO WING-KEE P,"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "@data-format": "original",
+                  "applicant-name": {
+                    "name": {
+                      "$": "SCHERING CORPORATION"
+                    }
+                  }
+                }
+              ]
+            },
+            "inventors": {
+              "inventor": [
+                {
+                  "@sequence": "1",
+                  "@data-format": "epodoc",
+                  "inventor-name": {
+                    "name": {
+                      "$": "CHO WING-KEE PHILIP [US]"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "1",
+                  "@data-format": "original",
+                  "inventor-name": {
+                    "name": {
+                      "$": "CHO WING-KEE P,"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "@data-format": "original",
+                  "inventor-name": {
+                    "name": {
+                      "$": "CHO WING-KEE PHILIP"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "invention-title": {
+            "$": "Methods for inhibiting sterol absorption",
+            "@lang": "en"
+          },
+          "references-cited": {
+            "citation": [
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "1",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "1",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US2809194"
+                      },
+                      "date": {
+                        "$": "19571008"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "2809194"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19571008"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "2",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "2",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3108097"
+                      },
+                      "date": {
+                        "$": "19631022"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3108097"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19631022"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "3",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "3",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3152173"
+                      },
+                      "date": {
+                        "$": "19641006"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3152173"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19641006"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "4",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "4",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3267104"
+                      },
+                      "date": {
+                        "$": "19660816"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3267104"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19660816"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "5",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "5",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3399192"
+                      },
+                      "date": {
+                        "$": "19680827"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3399192"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19680827"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "6",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "6",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3692895"
+                      },
+                      "date": {
+                        "$": "19720919"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3692895"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19720919"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "7",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "7",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3716583"
+                      },
+                      "date": {
+                        "$": "19730213"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3716583"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19730213"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "8",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "8",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3781328"
+                      },
+                      "date": {
+                        "$": "19731225"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3781328"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19731225"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "9",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "9",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US3948973"
+                      },
+                      "date": {
+                        "$": "19760406"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "3948973"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19760406"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "10",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "10",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4072705"
+                      },
+                      "date": {
+                        "$": "19780207"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4072705"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19780207"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "11",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "11",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4075000"
+                      },
+                      "date": {
+                        "$": "19780221"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4075000"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19780221"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "12",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "12",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4144232"
+                      },
+                      "date": {
+                        "$": "19790313"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4144232"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19790313"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "13",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "13",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4148923"
+                      },
+                      "date": {
+                        "$": "19790410"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4148923"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19790410"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "14",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "14",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4166907"
+                      },
+                      "date": {
+                        "$": "19790904"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4166907"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19790904"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "15",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "15",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4178695"
+                      },
+                      "date": {
+                        "$": "19791218"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4178695"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19791218"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "16",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "16",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4179515"
+                      },
+                      "date": {
+                        "$": "19791218"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4179515"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19791218"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "17",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "17",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4235896"
+                      },
+                      "date": {
+                        "$": "19801125"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4235896"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19801125"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "18",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "18",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4239763"
+                      },
+                      "date": {
+                        "$": "19801216"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4239763"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19801216"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "19",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "19",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4250191"
+                      },
+                      "date": {
+                        "$": "19810210"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4250191"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19810210"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "20",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "20",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4260743"
+                      },
+                      "date": {
+                        "$": "19810407"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4260743"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19810407"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "21",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "21",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4304718"
+                      },
+                      "date": {
+                        "$": "19811208"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4304718"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19811208"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "22",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "22",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4375475"
+                      },
+                      "date": {
+                        "$": "19830301"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4375475"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19830301"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "23",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "23",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4443372"
+                      },
+                      "date": {
+                        "$": "19840417"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4443372"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19840417"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "24",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "24",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4444784"
+                      },
+                      "date": {
+                        "$": "19840424"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4444784"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19840424"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "25",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "25",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4472309"
+                      },
+                      "date": {
+                        "$": "19840918"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4472309"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19840918"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "26",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "26",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4479900"
+                      },
+                      "date": {
+                        "$": "19841030"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4479900"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19841030"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "27",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "27",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4500456"
+                      },
+                      "date": {
+                        "$": "19850219"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4500456"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19850219"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "28",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "28",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4534786"
+                      },
+                      "date": {
+                        "$": "19850813"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4534786"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19850813"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "29",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "29",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4564609"
+                      },
+                      "date": {
+                        "$": "19860114"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4564609"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860114"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "30",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "30",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4567195"
+                      },
+                      "date": {
+                        "$": "19860128"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4567195"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860128"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "31",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "31",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4576748"
+                      },
+                      "date": {
+                        "$": "19860318"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4576748"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860318"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "32",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "32",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4576749"
+                      },
+                      "date": {
+                        "$": "19860318"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4576749"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860318"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "33",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "33",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4576753"
+                      },
+                      "date": {
+                        "$": "19860318"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4576753"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860318"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "34",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "34",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4581170"
+                      },
+                      "date": {
+                        "$": "19860408"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4581170"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860408"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "35",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "35",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4595532"
+                      },
+                      "date": {
+                        "$": "19860617"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4595532"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860617"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "36",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "36",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4602003"
+                      },
+                      "date": {
+                        "$": "19860722"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4602003"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860722"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "37",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "37",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4602005"
+                      },
+                      "date": {
+                        "$": "19860722"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4602005"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860722"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "38",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "38",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4614614"
+                      },
+                      "date": {
+                        "$": "19860930"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4614614"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19860930"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "39",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "39",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4616047"
+                      },
+                      "date": {
+                        "$": "19861007"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4616047"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19861007"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "40",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "40",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4620867"
+                      },
+                      "date": {
+                        "$": "19861104"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4620867"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19861104"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "41",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "41",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4626549"
+                      },
+                      "date": {
+                        "$": "19861202"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4626549"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19861202"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "42",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "42",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4633017"
+                      },
+                      "date": {
+                        "$": "19861230"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4633017"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19861230"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "43",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "43",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4642903"
+                      },
+                      "date": {
+                        "$": "19870217"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4642903"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19870217"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "44",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "44",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4654362"
+                      },
+                      "date": {
+                        "$": "19870331"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4654362"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19870331"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "45",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "45",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4675399"
+                      },
+                      "date": {
+                        "$": "19870623"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4675399"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19870623"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "46",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "46",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4680289"
+                      },
+                      "date": {
+                        "$": "19870714"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4680289"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19870714"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "47",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "47",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4680391"
+                      },
+                      "date": {
+                        "$": "19870714"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4680391"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19870714"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "48",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "48",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4687777"
+                      },
+                      "date": {
+                        "$": "19870818"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4687777"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19870818"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "49",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "49",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4739101"
+                      },
+                      "date": {
+                        "$": "19880419"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4739101"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19880419"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "50",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "50",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4778883"
+                      },
+                      "date": {
+                        "$": "19881018"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4778883"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19881018"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "51",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "51",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4784734"
+                      },
+                      "date": {
+                        "$": "19881115"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4784734"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19881115"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "52",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "52",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4794108"
+                      },
+                      "date": {
+                        "$": "19881227"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4794108"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19881227"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "53",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "53",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4800079"
+                      },
+                      "date": {
+                        "$": "19890124"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4800079"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19890124"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "54",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "54",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4803266"
+                      },
+                      "date": {
+                        "$": "19890207"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4803266"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19890207"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "55",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "55",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4814354"
+                      },
+                      "date": {
+                        "$": "19890321"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4814354"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19890321"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "56",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "56",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4834846"
+                      },
+                      "date": {
+                        "$": "19890530"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4834846"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19890530"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "57",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "57",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4871752"
+                      },
+                      "date": {
+                        "$": "19891003"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4871752"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19891003"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "58",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "58",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4876365"
+                      },
+                      "date": {
+                        "$": "19891024"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4876365"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19891024"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "59",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "59",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4879301"
+                      },
+                      "date": {
+                        "$": "19891107"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4879301"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19891107"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "60",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "60",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4895726"
+                      },
+                      "date": {
+                        "$": "19900123"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4895726"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19900123"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "61",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "61",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4925672"
+                      },
+                      "date": {
+                        "$": "19900515"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4925672"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19900515"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "62",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "62",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4937267"
+                      },
+                      "date": {
+                        "$": "19900626"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4937267"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19900626"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "63",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "63",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4939248"
+                      },
+                      "date": {
+                        "$": "19900703"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4939248"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19900703"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "64",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "64",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4952689"
+                      },
+                      "date": {
+                        "$": "19900828"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4952689"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19900828"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "65",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "65",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4961890"
+                      },
+                      "date": {
+                        "$": "19901009"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4961890"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19901009"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "66",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "66",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4983597"
+                      },
+                      "date": {
+                        "$": "19910108"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4983597"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19910108"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "67",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "67",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US4990535"
+                      },
+                      "date": {
+                        "$": "19910205"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "4990535"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19910205"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "68",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "68",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5021461"
+                      },
+                      "date": {
+                        "$": "19910604"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5021461"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19910604"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "69",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "69",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5030628"
+                      },
+                      "date": {
+                        "$": "19910709"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5030628"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19910709"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "70",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "70",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5073374"
+                      },
+                      "date": {
+                        "$": "19911217"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5073374"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19911217"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "71",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "71",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5091525"
+                      },
+                      "date": {
+                        "$": "19920225"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5091525"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920225"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "72",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "72",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5093365"
+                      },
+                      "date": {
+                        "$": "19920303"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5093365"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920303"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "73",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "73",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5099034"
+                      },
+                      "date": {
+                        "$": "19920324"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5099034"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920324"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "74",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "74",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5100675"
+                      },
+                      "date": {
+                        "$": "19920331"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5100675"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920331"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "75",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "75",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5106833"
+                      },
+                      "date": {
+                        "$": "19920421"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5106833"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920421"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "76",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "76",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5110730"
+                      },
+                      "date": {
+                        "$": "19920505"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5110730"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920505"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "77",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "77",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5112616"
+                      },
+                      "date": {
+                        "$": "19920512"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5112616"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920512"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "78",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "78",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5120713"
+                      },
+                      "date": {
+                        "$": "19920609"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5120713"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920609"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "79",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "79",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5120729"
+                      },
+                      "date": {
+                        "$": "19920609"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5120729"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920609"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "80",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "80",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5130333"
+                      },
+                      "date": {
+                        "$": "19920714"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5130333"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920714"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "81",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "81",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5145684"
+                      },
+                      "date": {
+                        "$": "19920908"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5145684"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19920908"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "82",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "82",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5157025"
+                      },
+                      "date": {
+                        "$": "19921020"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5157025"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19921020"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "83",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "83",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5162117"
+                      },
+                      "date": {
+                        "$": "19921110"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5162117"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19921110"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "84",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "84",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5178878"
+                      },
+                      "date": {
+                        "$": "19930112"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5178878"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930112"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "85",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "85",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5188825"
+                      },
+                      "date": {
+                        "$": "19930223"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5188825"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930223"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "86",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "86",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5190970"
+                      },
+                      "date": {
+                        "$": "19930302"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5190970"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930302"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "87",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "87",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5204461"
+                      },
+                      "date": {
+                        "$": "19930420"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5204461"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930420"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "88",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "88",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5219574"
+                      },
+                      "date": {
+                        "$": "19930615"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5219574"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930615"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "89",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "89",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5223264"
+                      },
+                      "date": {
+                        "$": "19930629"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5223264"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930629"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "90",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "90",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5229362"
+                      },
+                      "date": {
+                        "$": "19930720"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5229362"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930720"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "91",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "91",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5229381"
+                      },
+                      "date": {
+                        "$": "19930720"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5229381"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930720"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "92",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "92",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5229510"
+                      },
+                      "date": {
+                        "$": "19930720"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5229510"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19930720"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "93",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "93",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5260305"
+                      },
+                      "date": {
+                        "$": "19931109"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5260305"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19931109"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "94",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "94",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5278176"
+                      },
+                      "date": {
+                        "$": "19940111"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5278176"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19940111"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "95",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "95",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "USH1286H"
+                      },
+                      "date": {
+                        "$": "19940201"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "H1286"
+                      },
+                      "kind": {
+                        "$": "H"
+                      },
+                      "date": {
+                        "$": "19940201"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "96",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "96",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5286631"
+                      },
+                      "date": {
+                        "$": "19940215"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5286631"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19940215"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "97",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "97",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5298497"
+                      },
+                      "date": {
+                        "$": "19940329"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5298497"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19940329"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "98",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "98",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5306817"
+                      },
+                      "date": {
+                        "$": "19940426"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5306817"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19940426"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "99",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "99",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US5318767"
+                      },
+                      "date": {
+                        "$": "19940607"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "5318767"
+                      },
+                      "kind": {
+                        "$": "A"
+                      },
+                      "date": {
+                        "$": "19940607"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "100",
+                "nplcit": {
+                  "@num": "1",
+                  "text": {
+                    "$": "- Exhibit A: SCH 58235 Micronized (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "101",
+                "nplcit": {
+                  "@num": "2",
+                  "text": {
+                    "$": "- Exhibit B: SCH 58235 (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "102",
+                "nplcit": {
+                  "@num": "3",
+                  "text": {
+                    "$": "- Exhibit C: SCH 58235 (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "103",
+                "nplcit": {
+                  "@num": "4",
+                  "text": {
+                    "$": "- Exhibit D: SCH 58235 (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "104",
+                "nplcit": {
+                  "@num": "5",
+                  "text": {
+                    "$": "- Exhibit E: SCH 58235 (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "105",
+                "nplcit": {
+                  "@num": "6",
+                  "text": {
+                    "$": "- Exhibit F: SCH 58235 (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "106",
+                "nplcit": {
+                  "@num": "7",
+                  "text": {
+                    "$": "- Exhibit G: SCH 58235 (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "107",
+                "nplcit": {
+                  "@num": "8",
+                  "text": {
+                    "$": "- Exhibit H: SCH 58235 (ezetimibe)Drug Formulation Development Summary."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "108",
+                "nplcit": {
+                  "@num": "9",
+                  "text": {
+                    "$": "- Exhibit 1: Master Sheet for the SCH 58235 and Lovastatin Research Study, Schering-Plough Research Institute (Protocol No. C906-411)p. 1576-1585."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "109",
+                "nplcit": {
+                  "@num": "10",
+                  "text": {
+                    "$": "- Exhibit 2: Medical Research Study #1055/97, SCH 58235: Bioavailability of Single Oral Doses of Two Prototype Tablet Formulations and the Reference Capsule Formulation of SCH 58235 in Normal Male Volunteers: A Four Way Crossover Study #C97-221-01, Informed Consent, Peninsular Testing Corporationp. 106-112."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "110",
+                "nplcit": {
+                  "@num": "11",
+                  "text": {
+                    "$": "- Exhibit 3: Consent Form to Participate in a Research Study, \"A Phase II Double Blind Dose Response Investigation of Efficacy and Safety of Four Doses of SCH 58235 Compared to Placebo in Subjects with Primary Hypercholesterolemia,\" Schering-Plough Research Institute (Protocol No. C98-010)p. 1558-1566."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "111",
+                "nplcit": {
+                  "@num": "12",
+                  "text": {
+                    "$": "- Exhibit 4: Medical Research Study #1096/99, SCH 58235: Pharmacokinetic Pharmacodynamic Drug Interaction Study with Digoxin in Healthy Volunteers #C98-114, Informed Consent, Peninsular Testing Corporationp. 124-130."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "112",
+                "nplcit": {
+                  "@num": "13",
+                  "text": {
+                    "$": "- Exhibit 5: Informed Consent, \"SCH 58235: Assessment of Multiple-Dose Drug Interaction Between 58235 and Gemfibrozil in Healthy Volunteers,\" Schering-Plough Research Institutep. 1-8."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "113",
+                "nplcit": {
+                  "@num": "14",
+                  "text": {
+                    "$": "- D8: \"Kratkaya Chimit'cheskaya Enclopedia\" pod red. I.L. Knunyanza et al., Moscow, publ. Sovietskaya Enclopedia, 1965p. 507."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "114",
+                "nplcit": {
+                  "@num": "15",
+                  "text": {
+                    "$": "- Vaccaro, W.D. et al , \"Sugar-substituted 2-azetidinone cholesterol absorption inhibitors: enhanced potency by modification of the sugar\" Bioorganic & Medicinal Chemistry Ltrs., Oxford, G.B.8:313-318 (1998)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "115",
+                "nplcit": {
+                  "@num": "16",
+                  "text": {
+                    "$": "- Vaccaro, W.D. et. al., \"Carboxy-substituted 2-azetidinones as cholesterol absorption inhibitors\", Bioganic & Medicinal Chem. Ltrs. OxfordG.B. 8:319-322 (1998)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "116",
+                "nplcit": {
+                  "@num": "17",
+                  "text": {
+                    "$": "- H. Davis et al., \"Ezetimibe, a Potent Cholesterol Absorption Inhibitor, Inhibits the Developmentof Aterosclerosis in Apo E Knockout Mice\", Arterioscler, Thromb. Vasc. Biol 21;2032-2038(Dec. 2001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "117",
+                "nplcit": {
+                  "@num": "18",
+                  "text": {
+                    "$": "- Simova, E., \"Aldol-type addition of hydrocinnamic acid esters to benzylideneaniline\", Chemical Abstracts No. 15, 86 (Apr. 111997)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "118",
+                "nplcit": {
+                  "@num": "19",
+                  "text": {
+                    "$": "- Otto et al., Stereochemistry of dehydration and halogenation fo alphaR* and alphaS* isomeric 3-(alpha-hydroxybenzyl)-1,4 diphenyl=2 azetidinones, Chemical Abstracts No. 19, 99 (Nov. 71983)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "119",
+                "nplcit": {
+                  "@num": "20",
+                  "text": {
+                    "$": "- T. Durst et al, \"Metallation of N-Substituted beta-Lactams. A Method of the Introduction of 3-substituents into beta-Lactams\" Canadian Journal of Chemistry50:3196-3201 (1971)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "120",
+                "nplcit": {
+                  "@num": "21",
+                  "text": {
+                    "$": "- Nobuki, O. et al., \"Stereoselective syntheses of b-lactam derivatives by ultrasound promoted Reformatskii reaction\" Chemical Abstracts No. 106, 17 (Apr. 271987)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "121",
+                "nplcit": {
+                  "@num": "22",
+                  "text": {
+                    "$": "- M. Hoekman, et al., \"Synthesis of Homologues of 4,5-Dihydroxy-and 4-Hydroxy-5-oxohexanoic Acid gamma-Lactones\", J. Agric. Food Chem.30:920-024 (1982)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "122",
+                "nplcit": {
+                  "@num": "23",
+                  "text": {
+                    "$": "- H. Otto et al. \"Darstellung and Stereochemie von 3-(alpha-Hydroxybenzyl)-1,4-diphenyl-2-azetidononen\"Liebigs Ann. Chem. 1152-1161 (1983)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "123",
+                "nplcit": {
+                  "@num": "24",
+                  "text": {
+                    "$": "- G. George et al. \"3-(1'-Hydroxyethyl)-2-Azetidinones From 3-Hydroxybutyrates and N-Arylaldimines\" Tetrahedron Letters26:3903-3906 (1985)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "124",
+                "nplcit": {
+                  "@num": "25",
+                  "text": {
+                    "$": "- Hart et al. \"An Enantioselective Approach to Carbapenem Antibodies: Formal Synthesis of (+)-Thienamycin\", 26 Tetrahedron Letters45:5493-5496 (1985)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "125",
+                "nplcit": {
+                  "@num": "26",
+                  "text": {
+                    "$": "- Panfil, I. et al. \"Synthesis of beta-Lactams from alphabeta-Unsaturated Sugar delta-Lactones\" 24 Heterocycles 6:1609-1617 (1986)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "126",
+                "nplcit": {
+                  "@num": "27",
+                  "text": {
+                    "$": "- D. Roger Illingworth\"An Overview of Lipid-Lower Drugs\" Drugs 36:63-71 (1988)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "127",
+                "nplcit": {
+                  "@num": "28",
+                  "text": {
+                    "$": "- Joseph L. Witztum, M.D.\"Current Approaches to Drug Therapy for the Hyercholesterolemic Patient\" Circulation 80:1101-1114 (1989)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "128",
+                "nplcit": {
+                  "@num": "29",
+                  "text": {
+                    "$": "- B. Ram et al. \"Potential Hypolipidemic agents:Part V\"29B Indian J. Chem. 1134-37 (1990)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "129",
+                "nplcit": {
+                  "@num": "30",
+                  "text": {
+                    "$": "- Schnitzer-Polokoff, R. et al.\"Effects of Acyl-CoA: Choleseraol O-Acyltransferase Inhibition on Cholesterol Absorption and Plasma Lipoprotein Composition in Hamsters\" Comp. Biochem. Physiol. 99A:665-670 (1991)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "130",
+                "nplcit": {
+                  "@num": "31",
+                  "text": {
+                    "$": "- Horie, M. et al\"Hypolipidemic effects of NB-598 in dogs\" Atherosclerosis 88:183-192 (1991)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "131",
+                "nplcit": {
+                  "@num": "32",
+                  "text": {
+                    "$": "- Baxter, A., \"Squalestatin 1, a Potent Inhibitor of Squalene Synthase, Which Lowers Serum Cholesterol in Vivo\"The Journal of Biological Chemistry 267:11705-11708 (1992)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "132",
+                "nplcit": {
+                  "@num": "33",
+                  "text": {
+                    "$": "- Summary Factfile, \"Anti-Antherosclerotic Agents\" Current Drugs Ltd(1992)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "133",
+                "nplcit": {
+                  "@num": "34",
+                  "text": {
+                    "$": "- Harwood H. James\"Pharmacologic consequences of cholesterol absorption inhibition: alteration in cholesterol metabolism and reduction in plasma cholesterol concentration induced by the synthetic saponin beta-tigogenin cellobioside (CP-88818; tiqueside) 1\" Journal of Lipid Research 34:377-395 (1993)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "134",
+                "nplcit": {
+                  "@num": "35",
+                  "text": {
+                    "$": "- Salisbury, B. et al., \"Hypocholesterolemic activity of a novel inhibitor of cholesterol absorptionSCH 48461\" Atherosclerosis 115:45-63 (1995)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "135",
+                "nplcit": {
+                  "@num": "36",
+                  "text": {
+                    "$": "- Clader, J. W. et al.\"Substituted (1,2-Diarylethyl)amide Acyl-CoA;Cholesterol Acyltransferase Inhibitors: Effect of Polar Groups in Vitro and in Vivo Activity\" Journal of Medicinal Chemistry 38:1600-1607 (1995)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "136",
+                "nplcit": {
+                  "@num": "37",
+                  "text": {
+                    "$": "- Sybertz, E., \"Sch 48461a novel inhibitor of cholesterol absorption\" Atherosclerosis pp. 311-315 (1995)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "137",
+                "nplcit": {
+                  "@num": "38",
+                  "text": {
+                    "$": "- Vaccaro, W. et al, \"2-Azetidinone Cholesterol Absorption Inhibitors; Increased Potency by Substitution of the C-4 Phenyl Ring\"Bioorg. & Med. Chem. 6:1429-1437 (1998)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "138",
+                "nplcit": {
+                  "@num": "39",
+                  "text": {
+                    "$": "- G. Wu et al, A Novel One-Step Diastereo-and enantioselective formation of trans-azetidinones and its application to the total synthesis of cholesterol absorption inhibitors A.C.S. (Apr. 211999)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "139",
+                "nplcit": {
+                  "@num": "40",
+                  "text": {
+                    "$": "- B. Staels, \"New Roles for PPARS in Cholesterol Homeostasis\", Trends in Pharmacological Sciences22:9 p. 444 (Sep. 2001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "140",
+                "nplcit": {
+                  "@num": "41",
+                  "text": {
+                    "$": "- Abbott et al, \"Tricor(R) Capsules, Micronized\", Physicians Desk Reference, Jan. 82001."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "141",
+                "nplcit": {
+                  "@num": "42",
+                  "text": {
+                    "$": "- M. Feher et al., 1991, Lipids and Lipid Disordersp. 1-87 (1991)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "142",
+                "nplcit": {
+                  "@num": "43",
+                  "text": {
+                    "$": "- M. Ricote et al., \"New Roles for PPARs in Cholesterol Homeostakis\", Trends in Pharmacological Science, vol. 22No. 9 44-443 (2001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "143",
+                "nplcit": {
+                  "@num": "44",
+                  "text": {
+                    "$": "- C. Dujovne et al, \"Reduction of LDL Cholesteral in Patients with Primary Hypercholesterolemia by SCH 48461: Results of a mutlicenter Dose-Ranging Study\"J. Clin,. Pharm. 41:1 70-78 (Jan. 2001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "144",
+                "nplcit": {
+                  "@num": "45",
+                  "text": {
+                    "$": "- W. Oppolzer et al., \"Asymmetric Diels-Alder Reactions, Facile Preparation and Structure of Sulfonamido-Isobornyl Acrylates\", Tetrahedron Letters No. 5125:5885-5888 (1984)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "145",
+                "nplcit": {
+                  "@num": "46",
+                  "text": {
+                    "$": "- M. Davidson et al., \"Colesevelam Hydischloride: a non-absorbed, polymeric cholesterol lowing agent\", Expert Opinion Investigating Drugs, 11:2663-71(Nov. 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "146",
+                "nplcit": {
+                  "@num": "47",
+                  "text": {
+                    "$": "- M. Davidson et al., \"Colesevelam hydrochloride (cholestagel): a new, potent bileacid sequestrant associated with a low incidence of gastrointestinal effects\"159 Arch. Intern. Med. 16 1893-900 (Sep. 1999)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "147",
+                "nplcit": {
+                  "@num": "48",
+                  "text": {
+                    "$": "- I. Wester, \"Cholesterol-Lowering effect of plant sterols\", Euro. J.LipidSci. Tech. 37-44 (2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "148",
+                "nplcit": {
+                  "@num": "49",
+                  "text": {
+                    "$": "- A. Andersson et al., \"Cholesterol-lowering effects of a stanol ester-containing low fat margarine used in conjunction with a strict lipid-lowing diet\"1 European Heart. J. Supplements S80-S90 (1999)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "149",
+                "nplcit": {
+                  "@num": "50",
+                  "text": {
+                    "$": "- H. Gylling et al, Reduction of Serum Cholesterol in Postmenopausal Women with Previous Myocardial Infarction and Cholesterol Malabsorption induced by Dietary Sitostarol Ester Margarine, 96 Circulation12 4226-4231 (Dec. 161997)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "150",
+                "nplcit": {
+                  "@num": "51",
+                  "text": {
+                    "$": "- T. Miettinen et al. \"Reduction of Serum Cholesterol with Sitostanol-Ester Margarine in a Mildly Hypercholesterolemic Population\", New England Journal of Med. 333 1308-1312 (Nov. 161995)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "151",
+                "nplcit": {
+                  "@num": "52",
+                  "text": {
+                    "$": "- T. Bocan et al., \"The ACAT Inhibitor Avasimibe Reduces Macrophages and Matrix Metalloproteinase Expression in Atherosclerotic Lesions of Hypercholesterolemic Rabbits\"Arterioscler Thromb Vasc. Biol. 70-79 (Jan. 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "152",
+                "nplcit": {
+                  "@num": "53",
+                  "text": {
+                    "$": "- M. Van Heek et al., \"In Vivo Metabolism-Based Discovery of a Potent Cholesterol Absorption Inhibitor, SCH 58235in the Rat and Rhesus Monkey through the indentification of the active metabolites of SCH48461,\" 283 J. Pharma and Experimental Therapeutics 1 157-163 (1997)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "153",
+                "nplcit": {
+                  "@num": "54",
+                  "text": {
+                    "$": "- H. Davis et al.\"The Cholesterol Absorption Inhibitor Ezetimible Inhibits the Development of Atherosclerosis in apo E knockout (-/-) mice fed low fat and western diets,\" 151 Atherosclerosis 1:133 (Jul. 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "154",
+                "nplcit": {
+                  "@num": "55",
+                  "text": {
+                    "$": "- L. Nguyen et al., \"Unexpected Failure of Bile Acid Malabsorption to Stimulate Cholesterol Synthesis in Sitosterolemia with Xanthomatosis\", 10 Atherosclerosis 2289-297 (1990)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "155",
+                "nplcit": {
+                  "@num": "56",
+                  "text": {
+                    "$": "- L. Nguyen et al., \"Regulation of Cholesterol Biosynthesisin Sitosterolemia: effects of lovastatin, Cholestyramineand dietary sterol restriction,\" 32 J.Lipid Res. 1941-1948 (1991)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "156",
+                "nplcit": {
+                  "@num": "57",
+                  "text": {
+                    "$": "- M. Cobb et al.\"Sitosterolemia: Opposing Effects of cholestyramine and Lovastatin on Plasma Sterol Levels in a Homozygous Girl and Her Heterozygous Father,\" 45 Metabolism 6 673-679 (Jun. 1996)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "157",
+                "nplcit": {
+                  "@num": "58",
+                  "text": {
+                    "$": "- M. Huettinger et al., \"Hypolipidemic Activity of HOE-402 is mediated by Stimulation of the LDL Receptor Pathway\"13 Arteriosclerosis and Thrombosis 7 1005-1012 (Jul. 1993)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "158",
+                "nplcit": {
+                  "@num": "59",
+                  "text": {
+                    "$": "- J. Best et al., \"Diabetic Dyslipidaemia\"59 Drugs 5 1101-1111 (May 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "159",
+                "nplcit": {
+                  "@num": "60",
+                  "text": {
+                    "$": "- P. Chong, et al, \"Current, New and Future Treatment in Dyslipidaemia and Atherosclerosis\"60 Drugs 1 55-93 (Jul. 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "160",
+                "nplcit": {
+                  "@num": "61",
+                  "text": {
+                    "$": "- M. Brown et al, \"A Receptor-Mediated Pathway for Cholesterol Homeostasis\", 232 Science 34-47 (Apr. 41986)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "161",
+                "nplcit": {
+                  "@num": "62",
+                  "text": {
+                    "$": "- L. Lipka et al., \"Reduction of LDL-Cholesterol and Elevation of HDL-Cholesterol in Subjects with Primary Hypercholesterolemia by SCH 58235: Pooled Analysis of Two Phase II Studies\"JACC 257A (Feb. 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "162",
+                "nplcit": {
+                  "@num": "63",
+                  "text": {
+                    "$": "- Medical Economics, Co., Inc., Physician's Desk Reference, 207-2082054 (55th Ed. 2001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "163",
+                "nplcit": {
+                  "@num": "64",
+                  "text": {
+                    "$": "- K. Fassbender et al., \"Simvastatin Strongly Reduces Levels of Alzheimer's Disease beta-Amyloid Peptides Abeta 42 and Abeta40 in vitro and in vivo\", PNAs Early Editionwww.phas.org/cgi/doi/10,1073/phas.081620098 (2001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "164",
+                "nplcit": {
+                  "@num": "65",
+                  "text": {
+                    "$": "- Andrx Announces Results of Alzheimer's Disease Clinical Study, Andrx Corporate Release (Apr. 112001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "165",
+                "nplcit": {
+                  "@num": "66",
+                  "text": {
+                    "$": "- Andrx (ADRX): Pos Phase II Results Using Avicor in Alzheimer's: Str Buy; $130,US Bancorp Piper, Apr. 122001."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "166",
+                "nplcit": {
+                  "@num": "67",
+                  "text": {
+                    "$": "- Statins May Protect Against Alzheimer's Disease; much research neededGeriatrics Feb. 2001."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "167",
+                "nplcit": {
+                  "@num": "68",
+                  "text": {
+                    "$": "- Dementia and Statins, The Lancet Mar. 172001."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "168",
+                "nplcit": {
+                  "@num": "69",
+                  "text": {
+                    "$": "- Research & Development: Andrx Says Cholesterol Drug May Treat Alzheimers, Reuters Apr. 112001."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "169",
+                "nplcit": {
+                  "@num": "70",
+                  "text": {
+                    "$": "- Cholesterol Drugs Ease Alzheimer's Damage; www.usatoday.com Apr. 102001."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "170",
+                "nplcit": {
+                  "@num": "71",
+                  "text": {
+                    "$": "- Lovastation XL of Use in Alzheimer's? News Edge (May 22001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "171",
+                "nplcit": {
+                  "@num": "72",
+                  "text": {
+                    "$": "- L. Refolo et al, Hypercholesterolemia Accelerates the Alzheimer's Amyloid Pathology in a Transgenic Morse ModelNeurobiology of Disease 321-331 (2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "172",
+                "nplcit": {
+                  "@num": "73",
+                  "text": {
+                    "$": "- D. Kang et al., \"Modulation of Amyloid beta-protein Clearance and Alheimer's Disease Susceptibility by the LDL Receptor-Related Protein Pathway\", Journal of Clinical Investigation 106:91159-1166 (Nov. 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "173",
+                "nplcit": {
+                  "@num": "74",
+                  "text": {
+                    "$": "- Y.A. Kesaniewmi, \"Intestinal Cholesterol Absorption Efficiency in Man is Related to Apoprotein E Phenotype\"J. Clin. Invest. 80(2) 578-81 (Aug. 1987)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "174",
+                "nplcit": {
+                  "@num": "75",
+                  "text": {
+                    "$": "- J. Busciglio et al., \"Generation of beta-amyloid in the secretary pathway in neuronal and nonneuronal cells\", 90 Proc. Nat'l. Acad. Sci, USA2092-2096 Neurobiology (Mar. 1993)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "175",
+                "nplcit": {
+                  "@num": "76",
+                  "text": {
+                    "$": "- L. Farrer et al., \"Assessment of Genetic Risk for Alzheimer's Disease Among first Degree Relatives\", Annals of Neurology 25:5485-493 (May 1989)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "176",
+                "nplcit": {
+                  "@num": "77",
+                  "text": {
+                    "$": "- A. Goate et al., \"Segregation of a Missense Mutation in the Amyloid Precursor Protein Gene with Familial Alzheimer's Disease\", 349 Nature No. 6311, 704-706 (Feb. 211991)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "177",
+                "nplcit": {
+                  "@num": "78",
+                  "text": {
+                    "$": "- D. Mann et al., \"The Pattern of Acquisition of Plaques and Tangle in the Brains of Patients Under 50 years of Age with Down's Syndrome\", 89 J. Neuro. Sci.169-179 (Feb. 1989)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "178",
+                "nplcit": {
+                  "@num": "79",
+                  "text": {
+                    "$": "- G. McKhann et al., \"Clinical Diagnosis of Alzheimer's Disease\", 34 Neurology No. 7939-944 (Jul. 1984)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "179",
+                "nplcit": {
+                  "@num": "80",
+                  "text": {
+                    "$": "- D. Selokoe, \"Alzheimer's Disease: Genotypes, Pheontype and Treatments\", 275 Science, 630-631 (Jan. 311997)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "180",
+                "nplcit": {
+                  "@num": "81",
+                  "text": {
+                    "$": "- C. Van Duijn, et al., \"Familial Aggregation of Alzheimer's Disease and Related Disorders: A collaborative Re-Analysis of Case-Control Studies\", 20 Int'l J. Epidemiology No. 2 (Suppl. 2)513-520 (1991)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "181",
+                "nplcit": {
+                  "@num": "82",
+                  "text": {
+                    "$": "- T Nagahara et al., \"Dibasic (Amidcinoaryl) Propanoic Acid Derivatives as Novel Blood Coagulation Factor Xa Inhibitors\"J. Med. Chem 37:1200-1207 (1994)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "182",
+                "nplcit": {
+                  "@num": "83",
+                  "text": {
+                    "$": "- Mellott et al., \"Acceleration of Recombinant Tissue-Type Plasminogen Activator Induced Reperfusion and Prevention of Reocculsion by Recombinant Antistasin, a selective factor Xa Inhibitor, in a Canine Model of Femoral Arterial Thrombosis\", Circulation Research70:1152-1160 (1992)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "183",
+                "nplcit": {
+                  "@num": "84",
+                  "text": {
+                    "$": "- Sitko et al., \"Conjunctive Enhancement of Enzymatic Thrombolysis and Prevention of Thrombotic Reocclusion With the Selective Factor Xa Inhibitor, Tick Anticoagulant Peptide\", Circulation85:808-815 (1992)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "184",
+                "nplcit": {
+                  "@num": "85",
+                  "text": {
+                    "$": "- Seymour et al., 1994, Biochemistry33:3949-3959."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "185",
+                "nplcit": {
+                  "@num": "86",
+                  "text": {
+                    "$": "- Markwardt, 1994, Thrombosis and Hemostasis72:477-479."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "186",
+                "nplcit": {
+                  "@num": "87",
+                  "text": {
+                    "$": "- Mendall et al., \"C-Reactive Protein and its relation to cardiovascular risk factor: A population based cross sectional study\", BMJ; 312:1061-1065 (Apr. 271996)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "187",
+                "nplcit": {
+                  "@num": "88",
+                  "text": {
+                    "$": "- Ridker P. et al., \"Prospective Studies of C-Reactive Protein as a risk factor for cardiovascular disease\"46 J. Investig. Med.; 8:391-395 (1998)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "188",
+                "nplcit": {
+                  "@num": "89",
+                  "text": {
+                    "$": "- Waters, D. et al., \"A Controlled Clinical Trial to Assess the Effect of a Calcium Channel Blocker on the Progression of Coronary Atherosclerosis\"Circulation; 82:1940-1953 (1990)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "189",
+                "nplcit": {
+                  "@num": "90",
+                  "text": {
+                    "$": "- Fleckenstein, 1985Cir. Res. vol. 52 (Suppl. 1) 13-16."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "190",
+                "nplcit": {
+                  "@num": "91",
+                  "text": {
+                    "$": "- Fleckenstein, 1983, \"Experimental Facts and Therapeutic Prospects\", John Wiley, New Yorkpp. 286-313."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "191",
+                "nplcit": {
+                  "@num": "92",
+                  "text": {
+                    "$": "- McCall, D., 1985, Curr. Pract. Cardiol. vol. 101-11."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "192",
+                "nplcit": {
+                  "@num": "93",
+                  "text": {
+                    "$": "- Remington 1995, The Science and Practice of Pharmacy(19th Ed. 1995) p. 963."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "193",
+                "nplcit": {
+                  "@num": "94",
+                  "text": {
+                    "$": "- M. Chistie et al., \"Early-Onset Amyloid Deposition and Cognitive Deficits in Transgenic Mice Expressing a Double Mutant Form of Amyloid Precursor Protein 695\", 276 J. Biol. Chem. No. 24; 21562-70 (Jun. 152001)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "194",
+                "nplcit": {
+                  "@num": "95",
+                  "text": {
+                    "$": "- C. Janus et al., \"Abeta Peptide Immunization Reduces Behavioral impairment and Plaques in a Model of Alzheimer's Disease\"408 Nature 21/28; 979-982 (Dec. 2000)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "195",
+                "nplcit": {
+                  "@num": "96",
+                  "text": {
+                    "$": "- Manual of Laboratory Operations, Lipid Research Clinics Program Report, Washington, D.C., U.S. Dept. of HealthEducation and Welfare Publication; 1:75-628 (1974)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "196",
+                "nplcit": {
+                  "@num": "97",
+                  "text": {
+                    "$": "- Steiner, PM et al., Standardization of Micromethods for Plasma Cholesterol, Triglyceride and HDL-Cholesterol with the Lipid Clinic's Methodology [abstract]J. Clin. Chem. Clin. Bichem; 19:850 (1981)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "197",
+                "nplcit": {
+                  "@num": "98",
+                  "text": {
+                    "$": "- Steele WG, et al.Enzymatic Determinations of Cholesterol in High Density Lipoprotein Fractions Prepared by Precipitation Technique,22 Clin. Chem.; 1:98-101 (1976)."
+                  }
+                }
+              },
+              {
+                "@cited-phase": "undefined",
+                "@cited-by": "applicant",
+                "@sequence": "198",
+                "nplcit": {
+                  "@num": "99",
+                  "text": {
+                    "$": "- Salen et al., \"Increased Sitosterol Absorption, Decreased Removal and Expanded Body Pools Compensate for Reduced Choelsterol Syntheses in Sitosterolemia with Xanthomatosis\"J. Lipd Res.,; 30:1319-1330 (1989)."
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "abstract": {
+          "@lang": "en",
+          "p": {
+            "$": "The present invention provides compositions, therapeutic combinations and methods including: (a) at least one peroxisome proliferator-activated receptor activator; and (b) at least one substituted azetidinone or substituted beta-lactam sterol absorption inhibitor which can be useful for treating vascular conditions, diabetes, obesity and lowering plasma levels of sterols."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": [
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "38123877",
+          "@country": "AU",
+          "@doc-number": "2008241013",
+          "@kind": "A1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2008241013"
+                  },
+                  "kind": {
+                    "$": "A1"
+                  },
+                  "date": {
+                    "$": "20081030"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2008241013"
+                  },
+                  "date": {
+                    "$": "20081030"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "A61K  31/   137            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "A61P  25/    04            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": [
+                {
+                  "@sequence": "1",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "9"
+                  },
+                  "subgroup": {
+                    "$": "0053"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "9"
+                  },
+                  "subgroup": {
+                    "$": "0053"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "31"
+                  },
+                  "subgroup": {
+                    "$": "137"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "31"
+                  },
+                  "subgroup": {
+                    "$": "137"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "31"
+                  },
+                  "subgroup": {
+                    "$": "137"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "6",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "P"
+                  },
+                  "main-group": {
+                    "$": "25"
+                  },
+                  "subgroup": {
+                    "$": "04"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "7",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "P"
+                  },
+                  "main-group": {
+                    "$": "25"
+                  },
+                  "subgroup": {
+                    "$": "04"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                }
+              ]
+            },
+            "application-reference": {
+              "@doc-id": "273319805",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2008241013"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20080241013"
+                  },
+                  "date": {
+                    "$": "20080421"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2008241013"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "regional",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "EP20070008218"
+                      },
+                      "date": {
+                        "$": "20070423"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "07008218.5"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "WO08/128740"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "WO2008EP03178"
+                      },
+                      "date": {
+                        "$": "20080421"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "EP2008/003178"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GRUENENTHAL CHEMIE"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GRUNENTHAL GMBH"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ROMBOUT FERDINAND"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGE CLAUDIA"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "FERDINAND ROMBOUT,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CLAUDIA LANGE,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGE, CLAUDIA,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ROMBOUT, FERDINAND"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "Titration of tapentadol",
+              "@lang": "en"
+            }
+          }
+        },
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "38123877",
+          "@country": "AU",
+          "@doc-number": "2008241013",
+          "@kind": "B2",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2008241013"
+                  },
+                  "kind": {
+                    "$": "B2"
+                  },
+                  "date": {
+                    "$": "20130620"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2008241013B"
+                  },
+                  "date": {
+                    "$": "20130620"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "A61K  31/   137            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "A61P  25/    04            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": [
+                {
+                  "@sequence": "1",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "9"
+                  },
+                  "subgroup": {
+                    "$": "0053"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "9"
+                  },
+                  "subgroup": {
+                    "$": "0053"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "31"
+                  },
+                  "subgroup": {
+                    "$": "137"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "31"
+                  },
+                  "subgroup": {
+                    "$": "137"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "US"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "K"
+                  },
+                  "main-group": {
+                    "$": "31"
+                  },
+                  "subgroup": {
+                    "$": "137"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                },
+                {
+                  "@sequence": "6",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "P"
+                  },
+                  "main-group": {
+                    "$": "25"
+                  },
+                  "subgroup": {
+                    "$": "04"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "KR"
+                  }
+                },
+                {
+                  "@sequence": "7",
+                  "classification-scheme": {
+                    "@office": "EP",
+                    "@scheme": "CPCI"
+                  },
+                  "section": {
+                    "$": "A"
+                  },
+                  "class": {
+                    "$": "61"
+                  },
+                  "subclass": {
+                    "$": "P"
+                  },
+                  "main-group": {
+                    "$": "25"
+                  },
+                  "subgroup": {
+                    "$": "04"
+                  },
+                  "classification-value": {
+                    "$": "I"
+                  },
+                  "generating-office": {
+                    "$": "EP"
+                  }
+                }
+              ]
+            },
+            "application-reference": {
+              "@doc-id": "273319805",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2008241013"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20080241013"
+                  },
+                  "date": {
+                    "$": "20080421"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2008241013"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "regional",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "EP20070008218"
+                      },
+                      "date": {
+                        "$": "20070423"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "07008218.5"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "WO08/128740"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "WO2008EP03178"
+                      },
+                      "date": {
+                        "$": "20080421"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "EP2008/003178"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GRUENENTHAL CHEMIE [DE]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "GRUNENTHAL GMBH"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGE CLAUDIA"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ROMBOUT FERDINAND"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "FERDINAND ROMBOUT,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CLAUDIA LANGE,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGE, CLAUDIA,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ROMBOUT, FERDINAND"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "Titration of tapentadol",
+              "@lang": "en"
+            },
+            "references-cited": {
+              "citation": {
+                "@cited-phase": "national-search-report",
+                "@cited-by": "examiner",
+                "@sequence": "1",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "1",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "US2005058706"
+                      },
+                      "name": {
+                        "$": "BARTHOLOMAEUS JOHANNES [DE], et al"
+                      },
+                      "date": {
+                        "$": "20050317"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "US"
+                      },
+                      "doc-number": {
+                        "$": "2005058706"
+                      },
+                      "kind": {
+                        "$": "A1"
+                      },
+                      "name": {
+                        "$": "BARTHOLOMAEUS JOHANNES [DE], et al"
+                      },
+                      "date": {
+                        "$": "20050317"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "The invention relates to the use of tapentadol for the manufacture of a medicament comprising at least one administration unit A containing dose a of tapentadol and at least one administration unit B containing dose b of tapentadol, where dose a &lt; dose b, for the treatment of pain."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

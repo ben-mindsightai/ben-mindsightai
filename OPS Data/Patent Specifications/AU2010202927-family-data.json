@@ -1,0 +1,436 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": {
+        "@system": "ops.epo.org",
+        "@family-id": "39540301",
+        "@country": "AU",
+        "@doc-number": "2010202927",
+        "@kind": "A1",
+        "bibliographic-data": {
+          "publication-reference": {
+            "document-id": [
+              {
+                "@document-id-type": "docdb",
+                "country": {
+                  "$": "AU"
+                },
+                "doc-number": {
+                  "$": "2010202927"
+                },
+                "kind": {
+                  "$": "A1"
+                },
+                "date": {
+                  "$": "20100729"
+                }
+              },
+              {
+                "@document-id-type": "epodoc",
+                "doc-number": {
+                  "$": "AU2010202927"
+                },
+                "date": {
+                  "$": "20100729"
+                }
+              }
+            ]
+          },
+          "classifications-ipcr": {
+            "classification-ipcr": [
+              {
+                "@sequence": "1",
+                "text": {
+                  "$": "A61K   9/    08            A I"
+                }
+              },
+              {
+                "@sequence": "2",
+                "text": {
+                  "$": "A61K   9/    12            A I"
+                }
+              },
+              {
+                "@sequence": "3",
+                "text": {
+                  "$": "A61K   9/    14            A I"
+                }
+              },
+              {
+                "@sequence": "4",
+                "text": {
+                  "$": "A61K  39/    00            A I"
+                }
+              },
+              {
+                "@sequence": "5",
+                "text": {
+                  "$": "A61M  11/    00            A I"
+                }
+              },
+              {
+                "@sequence": "6",
+                "text": {
+                  "$": "A61M  15/    00            A I"
+                }
+              },
+              {
+                "@sequence": "7",
+                "text": {
+                  "$": "A61M  15/    08            A I"
+                }
+              },
+              {
+                "@sequence": "8",
+                "text": {
+                  "$": "A61M  16/    06            A I"
+                }
+              },
+              {
+                "@sequence": "9",
+                "text": {
+                  "$": "A61P  27/    16            A I"
+                }
+              },
+              {
+                "@sequence": "10",
+                "text": {
+                  "$": "A61P  29/    00            A I"
+                }
+              },
+              {
+                "@sequence": "11",
+                "text": {
+                  "$": "A61P  37/    08            A I"
+                }
+              }
+            ]
+          },
+          "patent-classifications": {
+            "patent-classification": [
+              {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "M"
+                },
+                "main-group": {
+                  "$": "15"
+                },
+                "subgroup": {
+                  "$": "0091"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "2",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "M"
+                },
+                "main-group": {
+                  "$": "15"
+                },
+                "subgroup": {
+                  "$": "0098"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "3",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "M"
+                },
+                "main-group": {
+                  "$": "15"
+                },
+                "subgroup": {
+                  "$": "08"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "4",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "27"
+                },
+                "subgroup": {
+                  "$": "16"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "5",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "29"
+                },
+                "subgroup": {
+                  "$": "00"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              },
+              {
+                "@sequence": "6",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "A"
+                },
+                "class": {
+                  "$": "61"
+                },
+                "subclass": {
+                  "$": "P"
+                },
+                "main-group": {
+                  "$": "37"
+                },
+                "subgroup": {
+                  "$": "08"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              }
+            ]
+          },
+          "application-reference": {
+            "@doc-id": "321253357",
+            "document-id": [
+              {
+                "@document-id-type": "docdb",
+                "country": {
+                  "$": "AU"
+                },
+                "doc-number": {
+                  "$": "2010202927"
+                },
+                "kind": {
+                  "$": "A"
+                }
+              },
+              {
+                "@document-id-type": "epodoc",
+                "doc-number": {
+                  "$": "AU20100202927"
+                },
+                "date": {
+                  "$": "20100709"
+                }
+              },
+              {
+                "@document-id-type": "original",
+                "doc-number": {
+                  "$": "2010202927"
+                }
+              }
+            ]
+          },
+          "priority-claims": {
+            "priority-claim": [
+              {
+                "@sequence": "1",
+                "@kind": "national",
+                "document-id": [
+                  {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20080202419"
+                    },
+                    "date": {
+                      "$": "20080530"
+                    }
+                  },
+                  {
+                    "@document-id-type": "original",
+                    "doc-number": {
+                      "$": "2008202419"
+                    }
+                  }
+                ]
+              },
+              {
+                "@sequence": "2",
+                "@kind": "national",
+                "document-id": {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20100202927"
+                  },
+                  "date": {
+                    "$": "20100709"
+                  }
+                }
+              },
+              {
+                "@sequence": "3",
+                "@kind": "national",
+                "document-id": {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20020321700"
+                  },
+                  "date": {
+                    "$": "20020612"
+                  }
+                }
+              },
+              {
+                "@sequence": "4",
+                "@kind": "national",
+                "document-id": {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "GB20010014272"
+                  },
+                  "date": {
+                    "$": "20010612"
+                  }
+                }
+              }
+            ]
+          },
+          "parties": {
+            "applicants": {
+              "applicant": [
+                {
+                  "@sequence": "1",
+                  "@data-format": "epodoc",
+                  "applicant-name": {
+                    "name": {
+                      "$": "OPTINOSE AS [NO]"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "1",
+                  "@data-format": "original",
+                  "applicant-name": {
+                    "name": {
+                      "$": "OPTINOSE AS"
+                    }
+                  }
+                }
+              ]
+            },
+            "inventors": {
+              "inventor": [
+                {
+                  "@sequence": "1",
+                  "@data-format": "epodoc",
+                  "inventor-name": {
+                    "name": {
+                      "$": "DJUPESLAND PER GISLE"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "1",
+                  "@data-format": "original",
+                  "inventor-name": {
+                    "name": {
+                      "$": "PER GISLE DJUPESLAND"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "invention-title": {
+            "$": "Nasal devices",
+            "@lang": "en"
+          }
+        }
+      }
+    }
+  }
+}

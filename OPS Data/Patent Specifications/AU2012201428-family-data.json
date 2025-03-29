@@ -1,0 +1,700 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": [
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "46604618",
+          "@country": "AU",
+          "@doc-number": "2012201428",
+          "@kind": "A1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2012201428"
+                  },
+                  "kind": {
+                    "$": "A1"
+                  },
+                  "date": {
+                    "$": "20120405"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2012201428"
+                  },
+                  "date": {
+                    "$": "20120405"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "A61K  31/    55            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "A61K  47/    32            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "A61P  11/    02            A I"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "text": {
+                    "$": "A61P  27/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "text": {
+                    "$": "A61P  27/    02            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {},
+            "application-reference": {
+              "@doc-id": "365692225",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2012201428"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20120201428"
+                  },
+                  "date": {
+                    "$": "20120309"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2012201428"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "AU20050309657"
+                      },
+                      "date": {
+                        "$": "20051122"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "2005309657"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20120201428"
+                    },
+                    "date": {
+                      "$": "20120309"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDA PHARMACEUTICALS INC"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDA PHARMACEUTICALS INC"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "D’ADDIO ALEXANDER D"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "DANG PHUONG GRACE"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BALWANI GUL"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LAWRENCE BRIAN D"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "D’ADDIO, ALEXANDER D,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "DANG, PHUONG GRACE,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BALWANI, GUL,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LAWRENCE, BRIAN D"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "Compositions comprising azelastine and methods of use thereof",
+              "@lang": "en"
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "The present invention provides a pharmaceutical composition 5 comprising azelastine, or a pharmaceutically acceptable salt or ester thereof, at a concentration of about 0.005% to about 5.0% by weight, and one or more pharmaceutically acceptable carriers or excipients, wherein at least one of said pharmaceutically acceptable carriers or excipients is a taste-masking agent that masks the taste of said azelastine or salt or ester thereof such that the sensation 10 of a bitter taste by a patient caused by administration of said pharmaceutical composition to said patient is reduced or eliminated, and wherein at least one of said pharmaceutically acceptable carriers or excipients is sucralose."
+            }
+          }
+        },
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "46604618",
+          "@country": "AU",
+          "@doc-number": "2012201428",
+          "@kind": "B2",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2012201428"
+                  },
+                  "kind": {
+                    "$": "B2"
+                  },
+                  "date": {
+                    "$": "20130822"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2012201428B"
+                  },
+                  "date": {
+                    "$": "20130822"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "A61K  31/    55            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "A61K  47/    32            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "A61P  11/    02            A I"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "text": {
+                    "$": "A61P  27/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "text": {
+                    "$": "A61P  27/    02            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {},
+            "application-reference": {
+              "@doc-id": "365692225",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2012201428"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20120201428"
+                  },
+                  "date": {
+                    "$": "20120309"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2012201428"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "AU20050309657"
+                      },
+                      "date": {
+                        "$": "20051122"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "2005309657"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20120201428"
+                    },
+                    "date": {
+                      "$": "20120309"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDA PHARMACEUTICALS INC [US]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDA PHARMACEUTICALS INC"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "D’ADDIO ALEXANDER D"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "DANG PHUONG GRACE"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BALWANI GUL"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LAWRENCE BRIAN D"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "D’ADDIO, ALEXANDER D,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "DANG, PHUONG GRACE,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BALWANI, GUL,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LAWRENCE, BRIAN D"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "Compositions comprising azelastine and methods of use thereof",
+              "@lang": "en"
+            },
+            "references-cited": {
+              "citation": [
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "1",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "1",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "US2002006440"
+                        },
+                        "name": {
+                          "$": "CHERUKURI SUBRAMAN RAO [US]"
+                        },
+                        "date": {
+                          "$": "20020117"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "US"
+                        },
+                        "doc-number": {
+                          "$": "2002006440"
+                        },
+                        "kind": {
+                          "$": "A1"
+                        },
+                        "name": {
+                          "$": "CHERUKURI SUBRAMAN RAO [US]"
+                        },
+                        "date": {
+                          "$": "20020117"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "2",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "2",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "US6576677"
+                        },
+                        "name": {
+                          "$": "UKAI KOJI [JP], et al"
+                        },
+                        "date": {
+                          "$": "20030610"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "US"
+                        },
+                        "doc-number": {
+                          "$": "6576677"
+                        },
+                        "kind": {
+                          "$": "B1"
+                        },
+                        "name": {
+                          "$": "UKAI KOJI [JP], et al"
+                        },
+                        "date": {
+                          "$": "20030610"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "3",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "3",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "US6773716"
+                        },
+                        "name": {
+                          "$": "REAM RONALD L [US], et al"
+                        },
+                        "date": {
+                          "$": "20040810"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "US"
+                        },
+                        "doc-number": {
+                          "$": "6773716"
+                        },
+                        "kind": {
+                          "$": "B2"
+                        },
+                        "name": {
+                          "$": "REAM RONALD L [US], et al"
+                        },
+                        "date": {
+                          "$": "20040810"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "4",
+                  "nplcit": {
+                    "@num": "1",
+                    "text": {
+                      "$": "- FRIEDLAENDER, M.H., ET AL., \"Evaluation of the onset and duration of effect of Azelastine Eye Drops (0.05%) versus placebo in patients with allergic conjunctivitis using an allergen challenge model\", 2000, vol. 107, no. 12abstract"
+                    }
+                  },
+                  "category": {
+                    "$": " "
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "5",
+                  "nplcit": {
+                    "@num": "2",
+                    "text": {
+                      "$": "- CIPRANDI, G., ET AL., \"Seasonal rhinitis and azelastine: Long- or short-term treatment\" Journal of Allergy and Clinical Immunology, 1997, vol. 99, no. 3abstract"
+                    }
+                  },
+                  "category": {
+                    "$": " "
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "6",
+                  "nplcit": {
+                    "@num": "3",
+                    "text": {
+                      "$": "- LAFORCE, C.F., ET AL., \"Efficacy of azelastine nasal spray in seasonal allergic rhinitis patients who remain symptomatic after treatment with fexofenadine\", Annals of Allergy, Asthma & Immunology, 2004, vol. 93, no. 2abstract"
+                    }
+                  },
+                  "category": {
+                    "$": " "
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "7",
+                  "nplcit": {
+                    "@num": "4",
+                    "text": {
+                      "$": "- BANOV, C.H. AND LIEBERMAN, P., \"Efficacy of azelastine nasal spray in the treatment of vasomotor (perennial nonallergic) rhinitis\" Annals of Allergy, Asthma & Immunology, 2001, vol. 86, no. 1abstract"
+                    }
+                  },
+                  "category": {
+                    "$": " "
+                  }
+                }
+              ]
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "The present invention provides a pharmaceutical composition 5 comprising azelastine, or a pharmaceutically acceptable salt or ester thereof, at a concentration of about 0.005% to about 5.0% by weight, and one or more pharmaceutically acceptable carriers or excipients, wherein at least one of said pharmaceutically acceptable carriers or excipients is a taste-masking agent that masks the taste of said azelastine or salt or ester thereof such that the sensation 10 of a bitter taste by a patient caused by administration of said pharmaceutical composition to said patient is reduced or eliminated, and wherein at least one of said pharmaceutically acceptable carriers or excipients is sucralose."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

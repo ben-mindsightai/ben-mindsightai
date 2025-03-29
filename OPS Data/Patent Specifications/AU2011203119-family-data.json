@@ -1,0 +1,1485 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": [
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "45419959",
+          "@country": "AU",
+          "@doc-number": "2011203119",
+          "@kind": "A1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2011203119"
+                  },
+                  "kind": {
+                    "$": "A1"
+                  },
+                  "date": {
+                    "$": "20110721"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2011203119"
+                  },
+                  "date": {
+                    "$": "20110721"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "C07K  16/    28            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "C12N   5/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "C12N  15/    09            A I"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "text": {
+                    "$": "C12P  21/    08            A I"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "text": {
+                    "$": "C12Q   1/    02            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "Y"
+                },
+                "class": {
+                  "$": "02"
+                },
+                "subclass": {
+                  "$": "A"
+                },
+                "main-group": {
+                  "$": "50"
+                },
+                "subgroup": {
+                  "$": "30"
+                },
+                "classification-value": {
+                  "$": "A"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              }
+            },
+            "application-reference": {
+              "@doc-id": "340570251",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2011203119"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20110203119"
+                  },
+                  "date": {
+                    "$": "20110627"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2011203119"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050679466P"
+                    },
+                    "date": {
+                      "$": "20050509"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050738434P"
+                    },
+                    "date": {
+                      "$": "20051121"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050748919P"
+                    },
+                    "date": {
+                      "$": "20051208"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "AU20060244885"
+                      },
+                      "date": {
+                        "$": "20060502"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "2006244885"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "5",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "WO2006JP309606"
+                    },
+                    "date": {
+                      "$": "20060502"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "6",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20110203119"
+                    },
+                    "date": {
+                      "$": "20110627"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "ONO PHARMACEUTICAL CO"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDAREX INC"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "ONO PHARMACEUTICAL CO., LTD,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDAREX, INC,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "E. R. SQUIBB & SONS, L.L.C"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "KORMAN ALAN J"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BING CHEN"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "MOHAN SRINIVASAN"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CARDARELLI JOSEPHINE M"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SELBY MARK J"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CHANGYU WANG"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "KORMAN, ALAN J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CHEN, BING,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SRINIVASAN, MOHAN,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CARDARELLI, JOSEPHINE M,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SELBY, MARK J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "WANG, CHANGYU,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "7",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Korman, Alan J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "8",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Chen, Bing,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "9",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Srinivasan, Mohan,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "10",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Cardarelli, Josephine M,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "11",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Selby, Mark J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "12",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Wang, Changyu,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "13",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Huang, Haichun"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "Human monoclonal antibodies to programmed death 1(PD-1) and methods for treating cancer using anti-PD-1 antibodies alone or in combination with other immunotherapeutics",
+              "@lang": "en"
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "HUMAN MONOCLONAL ANTIBODIES TO PROGRAMMED DEATH 1(PD-1) AND METHODS FOR TREATING CANCER USING ANTI-PD-1 ANTIBODIES ALONE OR IN COMBINATION WITH OTHER IMMUNOTHERAPEUTICS 5 Abstract The present invention provides isolated monoclonal antibodies, particularly human monoclonal antibodies, that specifically bind to PD-1 with high affinity. Nucleic acid molecules encoding the antibodies of the invention, expression vectors, host cells 1a and methods for expressing the antibodies of the invention are also provided. Immunoconjugates, bispecific molecules and pharmaceutical compositions comprising the antibodies of the invention are also provided. The invention also provides methods for detecting PD-1, as well as methods for treating various diseases, including cancer and infectious diseases, using anti-PD-1 antibodies. The present invention further provides is methods for using a combination immunotherapy, such as the combination of anti-CT LA 4 and anti-PD-1 antibodies, to treat hyperproliferative disease, such as cancer. The invention also provides methods for altering adverse events related to treatment with such antibodies individually."
+            }
+          }
+        },
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "45419959",
+          "@country": "AU",
+          "@doc-number": "2011203119",
+          "@kind": "B2",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2011203119"
+                  },
+                  "kind": {
+                    "$": "B2"
+                  },
+                  "date": {
+                    "$": "20120308"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2011203119B"
+                  },
+                  "date": {
+                    "$": "20120308"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "C07K  16/    28            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "C12N   5/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "C12N  15/    09            A I"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "text": {
+                    "$": "C12P  21/    08            A I"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "text": {
+                    "$": "C12Q   1/    02            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "Y"
+                },
+                "class": {
+                  "$": "02"
+                },
+                "subclass": {
+                  "$": "A"
+                },
+                "main-group": {
+                  "$": "50"
+                },
+                "subgroup": {
+                  "$": "30"
+                },
+                "classification-value": {
+                  "$": "A"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              }
+            },
+            "application-reference": {
+              "@doc-id": "340570251",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2011203119"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20110203119"
+                  },
+                  "date": {
+                    "$": "20110627"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2011203119"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050679466P"
+                    },
+                    "date": {
+                      "$": "20050509"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050738434P"
+                    },
+                    "date": {
+                      "$": "20051121"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050748919P"
+                    },
+                    "date": {
+                      "$": "20051208"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "AU20060244885"
+                      },
+                      "date": {
+                        "$": "20060502"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "2006244885"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "5",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "WO2006JP309606"
+                    },
+                    "date": {
+                      "$": "20060502"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "6",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20110203119"
+                    },
+                    "date": {
+                      "$": "20110627"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "ONO PHARMACEUTICAL CO"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDAREX INC"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "ONO PHARMACEUTICAL CO., LTD,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDAREX, INC,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "E. R. SQUIBB & SONS, L.L.C"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "KORMAN ALAN J"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CHEN BING"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SRINIVASAN MOHAN"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CARDARELLI JOSEPHINE M"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SELBY MARK J"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "WANG CHANGYU"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "KORMAN, ALAN J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CHEN, BING,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SRINIVASAN, MOHAN,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CARDARELLI, JOSEPHINE M,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SELBY, MARK J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "WANG, CHANGYU,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "7",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Korman, Alan J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "8",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Chen, Bing,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "9",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Srinivasan, Mohan,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "10",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Cardarelli, Josephine M,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "11",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Selby, Mark J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "12",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Wang, Changyu,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "13",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Huang, Haichun"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "Human monoclonal antibodies to programmed death 1(PD-1) and methods for treating cancer using anti-PD-1 antibodies alone or in combination with other immunotherapeutics",
+              "@lang": "en"
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "HUMAN MONOCLONAL ANTIBODIES TO PROGRAMMED DEATH 1(PD-1) AND METHODS FOR TREATING CANCER USING ANTI-PD-1 ANTIBODIES ALONE OR IN COMBINATION WITH OTHER IMMUNOTHERAPEUTICS 5 Abstract The present invention provides isolated monoclonal antibodies, particularly human monoclonal antibodies, that specifically bind to PD-1 with high affinity. Nucleic acid molecules encoding the antibodies of the invention, expression vectors, host cells 1a and methods for expressing the antibodies of the invention are also provided. Immunoconjugates, bispecific molecules and pharmaceutical compositions comprising the antibodies of the invention are also provided. The invention also provides methods for detecting PD-1, as well as methods for treating various diseases, including cancer and infectious diseases, using anti-PD-1 antibodies. The present invention further provides is methods for using a combination immunotherapy, such as the combination of anti-CT LA 4 and anti-PD-1 antibodies, to treat hyperproliferative disease, such as cancer. The invention also provides methods for altering adverse events related to treatment with such antibodies individually."
+            }
+          }
+        },
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "45419959",
+          "@country": "AU",
+          "@doc-number": "2011203119",
+          "@kind": "C1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2011203119"
+                  },
+                  "kind": {
+                    "$": "C1"
+                  },
+                  "date": {
+                    "$": "20180614"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2011203119C"
+                  },
+                  "date": {
+                    "$": "20180614"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "C07K  16/    28            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "C12N   5/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "C12N  15/    09            A I"
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "text": {
+                    "$": "C12P  21/    08            A I"
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "text": {
+                    "$": "C12Q   1/    02            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "Y"
+                },
+                "class": {
+                  "$": "02"
+                },
+                "subclass": {
+                  "$": "A"
+                },
+                "main-group": {
+                  "$": "50"
+                },
+                "subgroup": {
+                  "$": "30"
+                },
+                "classification-value": {
+                  "$": "A"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              }
+            },
+            "application-reference": {
+              "@doc-id": "340570251",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2011203119"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20110203119"
+                  },
+                  "date": {
+                    "$": "20110627"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2011203119"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050679466P"
+                    },
+                    "date": {
+                      "$": "20050509"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050738434P"
+                    },
+                    "date": {
+                      "$": "20051121"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20050748919P"
+                    },
+                    "date": {
+                      "$": "20051208"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "AU20060244885"
+                      },
+                      "date": {
+                        "$": "20060502"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "2006244885"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "5",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "WO2006JP309606"
+                    },
+                    "date": {
+                      "$": "20060502"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "6",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20110203119"
+                    },
+                    "date": {
+                      "$": "20110627"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "SQUIBB & SONS LLC [US]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "ONO PHARMACEUTICAL CO [JP]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "ONO PHARMACEUTICAL CO., LTD,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "MEDAREX, INC,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "E. R. SQUIBB & SONS, L.L.C"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "KORMAN ALAN J"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CHEN BING"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SRINIVASAN MOHAN"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CARDARELLI JOSEPHINE M"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SELBY MARK J"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "WANG CHANGYU"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "7",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HUANG HAICHUN"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "KORMAN, ALAN J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CHEN, BING,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SRINIVASAN, MOHAN,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "CARDARELLI, JOSEPHINE M,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "5",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "SELBY, MARK J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "6",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "WANG, CHANGYU,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "7",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Korman, Alan J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "8",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Chen, Bing,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "9",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Srinivasan, Mohan,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "10",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Cardarelli, Josephine M,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "11",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Selby, Mark J,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "12",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Wang, Changyu,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "13",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Huang, Haichun"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "Human monoclonal antibodies to programmed death 1(PD-1) and methods for treating cancer using anti-PD-1 antibodies alone or in combination with other immunotherapeutics",
+              "@lang": "en"
+            },
+            "references-cited": {
+              "citation": [
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "1",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "1",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "WO0114557"
+                        },
+                        "name": {
+                          "$": "DANA FARBER CANCER INST INC [US], et al"
+                        },
+                        "date": {
+                          "$": "20010301"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "WO"
+                        },
+                        "doc-number": {
+                          "$": "0114557"
+                        },
+                        "kind": {
+                          "$": "A1"
+                        },
+                        "name": {
+                          "$": "DANA FARBER CANCER INST INC [US], et al"
+                        },
+                        "date": {
+                          "$": "20010301"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "2",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "2",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "WO02079499"
+                        },
+                        "name": {
+                          "$": "WYETH CORP [US], et al"
+                        },
+                        "date": {
+                          "$": "20021010"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "WO"
+                        },
+                        "doc-number": {
+                          "$": "02079499"
+                        },
+                        "kind": {
+                          "$": "A1"
+                        },
+                        "name": {
+                          "$": "WYETH CORP [US], et al"
+                        },
+                        "date": {
+                          "$": "20021010"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "HUMAN MONOCLONAL ANTIBODIES TO PROGRAMMED DEATH 1(PD-1) AND METHODS FOR TREATING CANCER USING ANTI-PD-1 ANTIBODIES ALONE OR IN COMBINATION WITH OTHER IMMUNOTHERAPEUTICS 5 Abstract The present invention provides isolated monoclonal antibodies, particularly human monoclonal antibodies, that specifically bind to PD-1 with high affinity. Nucleic acid molecules encoding the antibodies of the invention, expression vectors, host cells 1a and methods for expressing the antibodies of the invention are also provided. Immunoconjugates, bispecific molecules and pharmaceutical compositions comprising the antibodies of the invention are also provided. The invention also provides methods for detecting PD-1, as well as methods for treating various diseases, including cancer and infectious diseases, using anti-PD-1 antibodies. The present invention further provides is methods for using a combination immunotherapy, such as the combination of anti-CT LA 4 and anti-PD-1 antibodies, to treat hyperproliferative disease, such as cancer. The invention also provides methods for altering adverse events related to treatment with such antibodies individually."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

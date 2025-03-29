@@ -1,0 +1,714 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": [
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "50480287",
+          "@country": "AU",
+          "@doc-number": "2017204342",
+          "@kind": "A1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2017204342"
+                  },
+                  "kind": {
+                    "$": "A1"
+                  },
+                  "date": {
+                    "$": "20170713"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2017204342"
+                  },
+                  "date": {
+                    "$": "20170713"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": {
+                "@sequence": "1",
+                "text": {
+                  "$": "A61M  15/    00            A I"
+                }
+              }
+            },
+            "patent-classifications": {},
+            "application-reference": {
+              "@doc-id": "481358237",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2017204342"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20170204342"
+                  },
+                  "date": {
+                    "$": "20170627"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2017204342"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "GB20090019465"
+                    },
+                    "date": {
+                      "$": "20091106"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20100298705P"
+                    },
+                    "date": {
+                      "$": "20100127"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20100314369"
+                    },
+                    "date": {
+                      "$": "20101105"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "WO2010EP06744"
+                    },
+                    "date": {
+                      "$": "20101105"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "AU20140201778"
+                      },
+                      "date": {
+                        "$": "20140325"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "2014201778"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "6",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20170204342"
+                    },
+                    "date": {
+                      "$": "20170627"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "NORTON HEALTHCARE LTD"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "Norton Healthcare Limited,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "NORTON HEALTHCARE LIMITED"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BLAIR JULIAN ALEXANDER"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BUCK DANIEL"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HAZENBERG JAN GEERT"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ZENG XIAN-MING"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BLAIR, Julian Alexander,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BUCK, Daniel,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HAZENBERG, Jan Geert,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ZENG, Xian-Ming"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "AIRFLOW ADAPTOR FOR A BREATH-ACTUATED DRY POWDER INHALER",
+              "@lang": "en"
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "An airflow adaptor (200) for a breath-actuated dry powder inhaler. The airflow adaptor comprises a conduit (202) having a proximal end (201) and a distal end, wherein the proximal end allows fluid communication from a deagglomerator outlet port to the distal end of the conduit, and wherein the airflow adaptor further comprises means (204, 205, 206, 210, 211, 212) for allowing air to flow from a proximal end of the adaptor to a distal end of the adaptor independently of the airflow in the conduit when a breath induced low pressure is applied to the distal end of the airflow adaptor. (Figure 2) ,106"
+            }
+          }
+        },
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "50480287",
+          "@country": "AU",
+          "@doc-number": "2017204342",
+          "@kind": "B2",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2017204342"
+                  },
+                  "kind": {
+                    "$": "B2"
+                  },
+                  "date": {
+                    "$": "20181108"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU2017204342B"
+                  },
+                  "date": {
+                    "$": "20181108"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": {
+                "@sequence": "1",
+                "text": {
+                  "$": "A61M  15/    00            A I"
+                }
+              }
+            },
+            "patent-classifications": {},
+            "application-reference": {
+              "@doc-id": "481358237",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "AU"
+                  },
+                  "doc-number": {
+                    "$": "2017204342"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "AU20170204342"
+                  },
+                  "date": {
+                    "$": "20170627"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "2017204342"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "GB20090019465"
+                    },
+                    "date": {
+                      "$": "20091106"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "US20100298705P"
+                    },
+                    "date": {
+                      "$": "20100127"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20100314369"
+                    },
+                    "date": {
+                      "$": "20101105"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "4",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "WO2010EP06744"
+                    },
+                    "date": {
+                      "$": "20101105"
+                    }
+                  }
+                },
+                {
+                  "@sequence": "5",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "AU20140201778"
+                      },
+                      "date": {
+                        "$": "20140325"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "2014201778"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "6",
+                  "@kind": "national",
+                  "document-id": {
+                    "@document-id-type": "epodoc",
+                    "doc-number": {
+                      "$": "AU20170204342"
+                    },
+                    "date": {
+                      "$": "20170627"
+                    }
+                  }
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "NORTON HEALTHCARE LTD [GB]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "Norton Healthcare Limited,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "NORTON HEALTHCARE LIMITED"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BUCK DANIEL"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HAZENBERG JAN GEERT"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ZENG XIAN-MING"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BLAIR JULIAN ALEXANDER"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BLAIR, Julian Alexander,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "BUCK, Daniel,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "HAZENBERG, Jan Geert,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "ZENG, Xian-Ming"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": {
+              "$": "AIRFLOW ADAPTOR FOR A BREATH-ACTUATED DRY POWDER INHALER",
+              "@lang": "en"
+            },
+            "references-cited": {
+              "citation": [
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "1",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "1",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "US5301666"
+                        },
+                        "name": {
+                          "$": "LERK COENRAAD [NL], et al"
+                        },
+                        "date": {
+                          "$": "19940412"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "US"
+                        },
+                        "doc-number": {
+                          "$": "5301666"
+                        },
+                        "kind": {
+                          "$": "A"
+                        },
+                        "name": {
+                          "$": "LERK COENRAAD [NL], et al"
+                        },
+                        "date": {
+                          "$": "19940412"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "2",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "2",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "US5647349"
+                        },
+                        "name": {
+                          "$": "OHKI HISATOMO [JP], et al"
+                        },
+                        "date": {
+                          "$": "19970715"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "US"
+                        },
+                        "doc-number": {
+                          "$": "5647349"
+                        },
+                        "kind": {
+                          "$": "A"
+                        },
+                        "name": {
+                          "$": "OHKI HISATOMO [JP], et al"
+                        },
+                        "date": {
+                          "$": "19970715"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@cited-phase": "national-search-report",
+                  "@cited-by": "examiner",
+                  "@sequence": "3",
+                  "patcit": {
+                    "@dnum-type": "publication number",
+                    "@num": "3",
+                    "document-id": [
+                      {
+                        "@document-id-type": "epodoc",
+                        "doc-number": {
+                          "$": "US2006231096"
+                        },
+                        "name": {
+                          "$": "OHKI HISATOMO [JP], et al"
+                        },
+                        "date": {
+                          "$": "20061019"
+                        }
+                      },
+                      {
+                        "@document-id-type": "docdb",
+                        "country": {
+                          "$": "US"
+                        },
+                        "doc-number": {
+                          "$": "2006231096"
+                        },
+                        "kind": {
+                          "$": "A1"
+                        },
+                        "name": {
+                          "$": "OHKI HISATOMO [JP], et al"
+                        },
+                        "date": {
+                          "$": "20061019"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "abstract": {
+            "@lang": "en",
+            "p": {
+              "$": "An airflow adaptor (200) for a breath-actuated dry powder inhaler. The airflow adaptor comprises a conduit (202) having a proximal end (201) and a distal end, wherein the proximal end allows fluid communication from a deagglomerator outlet port to the distal end of the conduit, and wherein the airflow adaptor further comprises means (204, 205, 206, 210, 211, 212) for allowing air to flow from a proximal end of the adaptor to a distal end of the adaptor independently of the airflow in the conduit when a breath induced low pressure is applied to the distal end of the airflow adaptor. (Figure 2) ,106"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
